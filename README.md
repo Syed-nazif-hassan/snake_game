@@ -18,4 +18,6 @@
 - If you hit the screen edges or your own tail, it's game over.
 - After game over a new game begins automatically and the snake will return to its original small size.
 
+### Here is a picture of the game-
+
 ![Snake game's image](image/snake_game.png)
