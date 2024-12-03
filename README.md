@@ -1,4 +1,4 @@
-# The classic Snake game using turtle graphics
+# The classic snake game using turtle graphics
 
 ## The game was part of a python course i was doing. It was a project in the course.
 
